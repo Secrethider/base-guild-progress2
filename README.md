@@ -5,3 +5,4 @@ Testing commit
 Learning GitHub
 Base Guild progress
 Continuing updates
+Small improvement added
