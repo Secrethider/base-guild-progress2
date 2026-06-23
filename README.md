@@ -16,3 +16,4 @@ Another commit made
 Continuing the flow
  Added next update
 SAnother progress notemall change added
+Update for commit count
